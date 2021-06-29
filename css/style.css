@@ -404,6 +404,7 @@ footer .social-link {
   background-color: var(--background-gray-color);
   border: none;
   border-radius: 4px;
+
   cursor: pointer;
 }
 .filters-list .button-active {
